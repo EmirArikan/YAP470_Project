@@ -1,0 +1,10 @@
+Patient,RNASeqCluster,MethylationCluster,miRNACluster,CNCluster,RPPACluster,OncosignCluster,COCCluster,histological_type,neoplasm_histologic_grade,tumor_tissue_site,laterality,tumor_location,gender,age_at_initial_pathologic,race,ethnicity,death01
+TCGA_CS_4941,2,4,2,2,,3,2,1,2,1,3,2,2,67,3,2,1
+TCGA_CS_4942,1,5,2,1,1,2,1,1,2,1,3,2,1,44,2,,1
+TCGA_CS_4943,1,5,2,1,2,2,1,1,2,1,1,2,2,37,3,,0
+TCGA_HT_7879,1,5,2,1,1,2,1,2,2,1,3,6,2,31,3,2,0
+TCGA_HT_8018,4,5,1,1,4,2,1,2,1,1,1,6,1,40,3,2,0
+TCGA_HT_8114,1,5,2,1,1,2,1,2,2,1,1,5,2,36,3,2,0
+TCGA_HT_7856,4,3,1,3,4,1,3,3,2,1,1,2,2,35,3,2,0
+TCGA_HT_7874,4,3,1,3,4,1,3,3,2,1,3,2,1,41,3,2,0
+TCGA_HT_A61A,,5,2,,,,1,3,1,1,1,6,1,20,3,2,0
