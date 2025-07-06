@@ -17,7 +17,7 @@ Verimizin ön işlemlerden geçirildikten sonraki son hali şu şekildedir:
 - #### modeller
   Önceden eğitilmiş MLP(Multilayer Perceptron), SVM(Support Vector Machine) ve RF(Random Forest) modelleri ve PCA(Principal Component Analysis) modeli bulunmaktadır.
 
-- #### total_data
+- #### images
   Github'a tüm datalar, büyüklüğünden ötürü yüklenemeyeceği için her sınıftan eşit dağılmış 185 resimden oluşan mini bir veri setidir. Bu veri seti ile herhangi bir model eğitilebilir.
 
 - #### test_data
