@@ -29,6 +29,8 @@ Verimizin ön işlemlerden geçirildikten sonraki son hali şu şekildedir:
 - #### test.ipynb
   Eğitilen modelleri, yeni görsellerle test edebilen koddur. Kullanıcı görsellerin olduğu klasörü, `.csv` formatındaki data dosyasını ve kullanmak istedikleri modeli girerek, sonuçları gözlemleyebilirler.
 
+- #### Functions.py
+  main.ipynb ve test.ipynb kodlarında kullanılan fonksiyonların toplanmış hali bir python dosyası.
 
 
 ### Sonuçlar
