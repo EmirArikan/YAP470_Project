@@ -38,9 +38,8 @@ Verimizin ön işlemlerden geçirildikten sonraki son hali şu şekildedir:
 Model seçimi, makine öğrenmesi uygulamalarında başarıyı doğrudan etkileyen temel unsurlardan biridir. Ancak model seçimi için tek bir doğru yoktur; bu seçim, kullanılan veri setine ve problemin doğasına bağlı olarak değişkenlik gösterebilir. Bu nedenle farklı modellerin performanslarını karşılaştırmak önemlidir. Yapılan karşılaştırmalar sonucunda, problemimiz özelinde Çok Katmanlı Algılayıcı (MLP) modelinin diğer modellere kıyasla daha başarılı sonuçlar verdiği gözlemlenmiştir.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e0cb4e1-52f9-493e-a0de-a38e2f0b2145" alt="image" width="700"/>
+  <img src="https://github.com/user-attachments/assets/356a5f54-2bc8-4176-a0a0-d12c816236c5" alt="image" width="700"/>
 </p>
-
 
 #### Önişlemenin Başarıya Katkısı
 Ham verinin doğrudan kullanımı, özellikle makine öğrenmesi modellerinde yetersiz sonuçlara yol açabilir. Bu nedenle, veriye önişleme uygulanması performans açısından kritik bir adımdır. Çalışmamızda, modeller hem önişleme uygulanmadan hem de önişleme ile eğitilerek karşılaştırılmıştır. Sonuçlar, önişleme uygulanan verilerle eğitilen modellerin daha başarılı olduğunu göstermiştir. Ancak bazı modellerde, belirli hiperparametre ayarlarında istisnai durumlar da gözlemlenmiştir.
